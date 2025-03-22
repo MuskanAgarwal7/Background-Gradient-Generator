@@ -1,0 +1,1 @@
+A simple and interactive Background Gradient Generator that allows users to generate random gradients using two colors. The gradient updates dynamically, and users can copy the CSS code with a single click. Built using HTML, CSS, and JavaScript.
